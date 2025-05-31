@@ -1,7 +1,6 @@
 package com.ederrabelo.dscommerce.entities;
 
 import jakarta.persistence.*;
-import org.springframework.stereotype.Component;
 
 import java.time.Instant;
 import java.util.Objects;
